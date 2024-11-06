@@ -2,9 +2,9 @@
 
 Dedicated and passionate Data Scientist, levelling up everyday.
 
-* 🌍  I'm based in Pakistan
-* 🧠  I'm Harnessing Data to Create Impactful Solutions
-* 🤝  I'm open to collaborating on Projects, Hackathons
+* 🌍  Based in Pakistan
+* 🧠  Harnessing Data to Create Impactful Solutions
+* 🤝  Open to collaborating on Projects, Hackathons
 
 <br/>
 <p align="center">
