@@ -7,7 +7,7 @@ Dedicated and passionate Data Scientist, levelling up everyday.
 * 🤝  I'm open to collaborating on Projects, Hackathons
 
 <br/>
-<p align="center">
+<p align="center" style='text-align:center;'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=Data+Scientist;Hackathon+Participant;Problem+Solver;Collaborative+Team+Player;Tech+Enthusiast" alt="Typing SVG" /></a>
 </p> 
 
@@ -25,11 +25,39 @@ Currently, I’m expanding my skills in Generative AI, working with advanced too
 
 <!-- GitHub Analytics -->
 <h2><i>⚙️ GitHub Analytics</i></h2>
-    <p align="center">
-            <img src="https://streak-stats.demolab.com?user=nomanmazharr&theme=dark&border_radius=35" height="169" alt="streak graph" /> <br>
-    </p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=nomanmazharr&theme=dark&border_radius=35" height="169" alt="streak graph" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=nomanmazharr&show_icons=true&theme=dark&border_radius=35" height="169" alt="profile stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanmazharr&layout=compact&theme=dark&border_radius=35" height="169" alt="top languages" />
+</p>
 
 
+
+## 🧑‍💻 Tech Stack 🛠️
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=50 alt='python-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=50 alt='sql-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=50 alt='html5-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=50 alt='css3-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=50 alt='js-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height=50 alt='pypi-logo'/>
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" height=50 alt='numpy-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height=50 alt='pandas-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" height=50 alt='matplotlib-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height=50 alt='sklearn-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height=50 alt='tensorflow-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height=50 alt='pytorch-logo'/>
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=50 alt='vscode-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height=50 alt='pycharm-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height=50 alt='jupyter-logo'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height=50 alt='anaconda-logo'/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=50 alt='git-logo'/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height=50 alt='github-logo'/>     
+</div>  
 
 ## 🤝🏻 &nbsp;Connect with Me
 
