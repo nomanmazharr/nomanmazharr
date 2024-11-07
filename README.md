@@ -32,6 +32,11 @@ Currently, I’m expanding my skills in Generative AI, working with advanced too
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanmazharr&layout=compact&theme=dark&border_radius=35" height="169" alt="top languages" />
 </p>
 
+## Contribution Graph 📈
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nomanmazharr&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+</p>
 
 
 ## 🧑‍💻 Tech Stack 🛠️
